@@ -1,0 +1,36 @@
+.Details {
+  background: linear-gradient(to bottom right, #570a57, #a91079);
+  min-height: 100vh;
+  /*   display: flex;
+  justify-content: space-between;
+  align-items: center; */
+  h2 {
+    font-size: 2.5rem;
+    font-weight:700;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+  }
+  h4 {
+    font-size: 2rem;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  padding: 5rem;
+  img {
+    border-radius: 100px;
+  }
+  div {
+    color: #e3fcbf;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+  }
+  span {
+    display: inline-block;
+    color: #fff;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+}
