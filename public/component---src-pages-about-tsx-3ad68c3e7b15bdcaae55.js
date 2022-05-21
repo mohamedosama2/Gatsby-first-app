@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfirst_ts=self.webpackChunkfirst_ts||[]).push([[49],{6303:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var u=n(7294);function r(){return u.createElement("div",null,"Abput")}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-3ad68c3e7b15bdcaae55.js.map

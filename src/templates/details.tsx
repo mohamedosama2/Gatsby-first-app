@@ -29,9 +29,8 @@ export default function Details({ data }: DProps) {
       <h4> {slug}</h4>
 
       <Img fluid={featuredImg.childImageSharp.fluid} />
- 
-        <span dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-    
+
+      <span dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
     </div>
   );
 }

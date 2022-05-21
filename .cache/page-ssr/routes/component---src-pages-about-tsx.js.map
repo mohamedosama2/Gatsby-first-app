@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-about-tsx.js","mappings":";;;;;;;;;;;;;;AAEe,QAASC,MAAT,EAAiB,CAC9B,mBACED,0DAAAA,oBADF,CAGD","sources":["webpack://first-ts/./src/pages/about.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function About() {\r\n  return (\r\n    <div>Abput</div>\r\n  )\r\n}\r\n"],"names":["React","About"],"sourceRoot":""}
